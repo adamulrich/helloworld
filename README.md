@@ -2,7 +2,7 @@
 
 This is a hello world application integrating github, python, and vs code. The purpose is to validate that my coding environment is set up correctly.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/A9sgWg-kvmA)
 
 # Development Environment
 
